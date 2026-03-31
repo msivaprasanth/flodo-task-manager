@@ -87,7 +87,7 @@ A clean, production-quality Flutter task manager built as part of the Flodo AI t
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/msivaprasanth/flodo-task-manager
 cd task_manager_app
 ```
 
